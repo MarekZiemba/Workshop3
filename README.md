@@ -25,7 +25,7 @@ wykonuje operacje na bazie danych. Zawiera przygotowane zapytania:
 - pobieranie po id,
 - usuwanie po id,
 - pobieranie wszystkich użytkowników.
-- 
+
 Dzięki dodatkowej metodzie, utworzonej w ramach klasy UserDao, o nazwie hashPassword, będziemy haszować hasło użytkownika,
 aby było przygotowane do zapisania w bazie danych. Korzystamy z implementacji algorytmu Blowfish – JBCrypt: 
 http://www.mindrot.org/projects/jBCrypt/
