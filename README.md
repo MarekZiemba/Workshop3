@@ -14,8 +14,11 @@ będą miały swoją reprezentację w bazie danych i posiada atrybuty (wszystkie
 - 
 # Baza danych w tabeli "users" zawieta kolumny:
 +------------------+--------------+------+-----+---------+----------------+
+
 | Field            | Type         | Null | Key | Default | Extra          |
+
 +------------------+--------------+------+-----+---------+----------------+
+
 | id               | int(11)      | NO   | PRI | NULL    | auto_increment |
 | email            | varchar(255) | NO   | UNI | NULL    |                |
 | username         | varchar(255) | NO   |     | NULL    |                |
