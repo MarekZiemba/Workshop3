@@ -2,13 +2,16 @@
 
 # Jest to aplikacja webowa, która umożliwia zarządzanie użytkownikami.
 Dane do zasilenia programu pobierać z bazy danych MySQL. Wykorzystuje klasy User oraz UserDao.
+
 # Do połączenia z baza danych wykorzystuje klase DbUtil.
+
 # Obiekty klasy User
 będą miały swoją reprezentację w bazie danych i posiada atrybuty (wszystkie prywatne):
 - id
 - userName
 - email
 - password
+- 
 # Baza danych w tabeli "users" zawieta kolumny:
 +------------------+--------------+------+-----+---------+----------------+
 | Field            | Type         | Null | Key | Default | Extra          |
@@ -18,6 +21,7 @@ będą miały swoją reprezentację w bazie danych i posiada atrybuty (wszystkie
 | username         | varchar(255) | NO   |     | NULL    |                |
 | password         | varchar(60)  | NO   |     | NULL    |                |
 +------------------+--------------+------+-----+---------+----------------+
+
 # Klasa UserDao 
 wykonuje operacje na bazie danych. Zawiera przygotowane zapytania:
 - dodawanie użytkownika,
