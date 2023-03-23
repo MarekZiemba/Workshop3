@@ -10,6 +10,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f6f8dfd-3613-4ea9-a500-66744913689f" name="Changes" comment="Commit-Main2">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/css/sb-admin-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/css/sb-admin-2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/img/undraw_posting_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/js/demo/chart-area-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/js/demo/chart-bar-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/js/demo/chart-pie-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/js/demo/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/js/sb-admin-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/js/sb-admin-2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/brands.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/conflict-detection.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/fontawesome.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/regular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/solid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/js/v4-shims.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/sprites/brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/sprites/regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/sprites/solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/theme/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +114,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/vboxuser/Programowanie/03_Modul/Workshop3/jee-user-crud",
+    "last_opened_file_path": "/home/vboxuser/Programowanie/01_Podstawy_Java/Workshop2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -187,6 +236,8 @@
       <updated>1679526147675</updated>
       <workItem from="1679526149048" duration="5446000" />
       <workItem from="1679531665866" duration="1153000" />
+      <workItem from="1679534233656" duration="154000" />
+      <workItem from="1679572931401" duration="3253000" />
     </task>
     <task id="LOCAL-00001" summary="Commit-Main">
       <created>1679530961726</created>
